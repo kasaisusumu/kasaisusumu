@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 
 
-<!--
-**kasaisusumu/kasaisusumu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+プロフィールをご覧いただきありがとうございます！
+現在は主に、**旅行計画Webアプリケーション「MapWith」**の開発に注力しています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗺️ Featured Project: MapWith
+
+**MapWith** は、旅行の計画作成をスムーズにし、旅の準備をよりワクワクするものにするためのWebアプリケーションです。
+
+ **🌍 MapWith((https://ikisakisan2601092.vercel.app/))**
+
+### ✨ 主な機能 (Features)
+
+- **📍 直感的なスポット検索とピン留め**
+  - 行きたい観光地やレストランを検索し、地図上で位置関係を直感的に把握しながら、候補リストにスムーズに追加できます。
+- **🗓️ スケジュール・ルートの視覚的な構築**
+  - ピックアップしたスポットをタイムラインに配置し、移動時間や経路を考慮しながら、無駄のない効率的な旅行プランを組み立てられます。
+- **🤝 計画の共有・共同編集**
+  - 一緒に旅行するメンバーと作成したプランのURLを共有し、リアルタイム（または非同期）で旅程のすり合わせが可能です。
+- **📱 旅行中の「旅のしおり」として**
+  - スマートフォンからも見やすいレスポンシブデザインを採用。旅行当日のルート確認やスケジュール把握もストレスなく行えます。
